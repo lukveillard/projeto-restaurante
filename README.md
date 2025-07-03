@@ -1,5 +1,7 @@
 # projeto-restaurante
 
+Certifique-se de ter o Node.js (versão 18.x ou superior recomendada) e o npm ou Yarn instalados.
+
 🍝 Trattoria Sapore d'Italia 🇮🇹
 Um website moderno e responsivo para a Trattoria Sapore d'Italia, apresentando a autêntica culinária italiana em um ambiente online elegante e funcional. Desenvolvido com Next.js, CSS Modules e uma arquitetura baseada em componentes, este projeto demonstra boas práticas de desenvolvimento web.
 
