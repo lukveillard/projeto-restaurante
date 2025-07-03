@@ -33,28 +33,6 @@ Responsividade: Design adaptável para proporcionar uma excelente experiência d
 
 Arquitetura Baseada em Componentes: Código organizado em componentes reutilizáveis para facilitar o desenvolvimento e a manutenção.
 
-📂 Estrutura do Projeto
-nome-do-seu-restaurante/
-├── public/                # Imagens estáticas (logo, banner, menu, etc.)
-├── src/
-│   ├── components/        # Componentes React reutilizáveis (Banner, Topo, Rodape, etc.)
-│   │   ├── ComponenteX/
-│   │   │   ├── index.js
-│   │   │   └── ComponenteX.module.css
-│   ├── pages/             # Páginas da aplicação (_app.js, index.js, etc.)
-│   ├── styles/            # Estilos globais e CSS Modules para Home
-│   │   ├── global.css
-│   │   └── Home.module.css
-│   └── ...
-├── .next/                 # Cache de build do Next.js (gerado automaticamente)
-├── package.json           # Dependências e scripts do projeto
-├── README.md              # Este arquivo
-└── ...
-
-Ótima pergunta! Ter um bom README no GitHub é crucial para mostrar o valor do seu projeto. Ele serve como a "porta de entrada" e o guia principal para qualquer pessoa que o encontre.
-
-Aqui está uma estrutura e o que você pode descrever sobre o seu projeto de site de restaurante italiano no GitHub:
-
 🍝 Trattoria Sapore d'Italia 🇮🇹
 Um website moderno e responsivo para a Trattoria Sapore d'Italia, apresentando a autêntica culinária italiana em um ambiente online elegante e funcional. Desenvolvido com Next.js, CSS Modules e uma arquitetura baseada em componentes, este projeto demonstra boas práticas de desenvolvimento web.
 
