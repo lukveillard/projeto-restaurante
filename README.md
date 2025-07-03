@@ -1,7 +1,5 @@
 # projeto-restaurante
 
-Certifique-se de ter o Node.js (versão 18.x ou superior recomendada) e o npm ou Yarn instalados.
-
 🍝 Trattoria Sapore d'Italia 🇮🇹
 Um website moderno e responsivo para a Trattoria Sapore d'Italia, apresentando a autêntica culinária italiana em um ambiente online elegante e funcional. Desenvolvido com Next.js, CSS Modules e uma arquitetura baseada em componentes, este projeto demonstra boas práticas de desenvolvimento web.
 
@@ -70,28 +68,13 @@ Siga estas instruções para configurar e rodar o projeto em sua máquina local.
 Pré-requisitos
 Certifique-se de ter o Node.js (versão 18.x ou superior recomendada) e o npm ou Yarn instalados.
 
-Instalação
-Clone o repositório:
-
-Bash
-
-git clone https://github.com/seu-usuario/nome-do-seu-repositorio.git
-cd nome-do-seu-repositorio
-Instale as dependências:
-
-Bash
-
-npm install
-# ou
-yarn install
+npm install ou yarn install
 Execução
 Para iniciar o servidor de desenvolvimento:
 
 Bash
 
-npm run dev
-# ou
-yarn dev
+npm run dev ou yarn dev
 O site estará acessível em http://localhost:3000.
 
 📂 Estrutura do Projeto
